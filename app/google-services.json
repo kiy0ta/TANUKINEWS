@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927498561930",
+    "firebase_url": "https://tanukinews-87faf.firebaseio.com",
+    "project_id": "tanukinews-87faf",
+    "storage_bucket": "tanukinews-87faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927498561930:android:69eb1db205ca073c950073",
+        "android_client_info": {
+          "package_name": "com.example.tanukinews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927498561930-gbuf3l1k716d0g287n087sqqquf7p9t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmkh2ggmtBvLuikI15ZPc3dhgAOqJ6vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927498561930-gbuf3l1k716d0g287n087sqqquf7p9t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
