@@ -1,0 +1,1 @@
+ - ![TANUKINEWS](const/test_message.png)
